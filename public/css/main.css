@@ -124,7 +124,9 @@ a{
 	margin-left: 1%;
 	box-sizing: border-box;
 }
-
+#logout{
+	display: none;
+}
 .user-action{
 	float: left;
 	width: 52%;
